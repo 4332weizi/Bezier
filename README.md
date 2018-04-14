@@ -3,8 +3,7 @@
 
 滑动跟随背景
 
-<iframe width="360" height="640" src="art/bezier.mp4" frameborder="0" allowfullscreen></iframe>
-
+![Bezier](art/bezier.gif)
 
 License
 -------
