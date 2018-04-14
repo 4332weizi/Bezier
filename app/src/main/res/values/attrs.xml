@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BezierView">
+        <attr name="color" format="color" />
+        <attr name="startPointMaxOffset" format="dimension" />
+        <attr name="controlPointMaxOffset" format="dimension" />
+    </declare-styleable>
+</resources>
